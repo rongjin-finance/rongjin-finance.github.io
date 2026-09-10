@@ -1,29 +1,31 @@
 ---
-
 layout: about
 title: about
 permalink: /
 subtitle: PhD Candidate in Finance at the University of Ottawa
 
 profile:
-align: right
-image: prof_pic.jpg
-image_circular: false
-more_info: > <p>Telfer School of Management</p> <p>University of Ottawa</p> <p>Ottawa, Canada</p>
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
+  more_info: >
+    <p>Telfer School of Management</p>
+    <p>University of Ottawa</p>
+    <p>Ottawa, Canada</p>
 
 selected_papers: false
 social: false
 
 announcements:
-enabled: false
-scrollable: true
-limit: 5
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-enabled: false
-scrollable: true
-limit: 3
---------
+  enabled: false
+  scrollable: true
+  limit: 3
+---
 
 I am a PhD Candidate in Finance at the [Telfer School of Management](https://telfer.uottawa.ca/en/), University of Ottawa.
 
@@ -49,9 +51,9 @@ I study the use of standardized language in corporate disclosures and its implic
 
 ### Instructor
 
-* **ADM 2352 — Finance Theory**, University of Ottawa
+- **ADM 2352 — Finance Theory**, University of Ottawa
 
 ### Teaching Assistant
 
-* **ADM 2352 — Finance Theory**, University of Ottawa, multiple terms
-* **ADM 2350 — Introduction to Business Finance**, University of Ottawa, multiple terms
+- **ADM 2352 — Finance Theory**, University of Ottawa, multiple terms
+- **ADM 2350 — Introduction to Business Finance**, University of Ottawa, multiple terms
