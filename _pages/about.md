@@ -29,6 +29,6 @@ latest_posts:
 
 I am a PhD Candidate in Finance at the Telfer School of Management, University of Ottawa.
 
-My research interests include corporate finance, corporate governance, and textual analysis. My current research examines executive communication in corporate disclosures, with a particular focus on CEO–CFO interactions during earnings conference calls.
+My research interests include corporate finance, corporate governance, and textual analysis. My research broadly examines how managerial characteristics, executive communication, and corporate disclosures relate to firms’ decisions, risks, and outcomes.
 
-I use large-scale textual data and empirical methods to study how managerial communication relates to corporate decisions and outcomes.
+I use large-scale textual data and empirical methods to study managerial behavior, organizational dynamics, and corporate disclosure practices.
