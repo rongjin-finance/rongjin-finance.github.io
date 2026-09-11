@@ -29,7 +29,9 @@ latest_posts:
 
 I am a PhD Candidate in Finance at the [Telfer School of Management](https://telfer.uottawa.ca/en/), University of Ottawa.
 
-My research interests lie at the intersection of corporate finance, corporate governance, and textual analysis. I use large-scale textual data and empirical methods to study managerial behavior, organizational dynamics, and corporate disclosure.
+My research interests lie at the intersection of corporate finance, corporate governance, and textual analysis. I use large-scale textual data and empirical methods to examine how managerial characteristics, executive communication, and disclosure practices shape corporate decision-making, firm risk, and firm value.
+
+<hr style="margin-top: 2.5rem; margin-bottom: 2rem;">
 
 ## Research
 
@@ -47,13 +49,16 @@ I examine the roles, relationships, and dynamics within top management teams and
 
 I study the use of standardized language in corporate disclosures and its implications for firms and their stakeholders.
 
+<hr style="margin-top: 2.5rem; margin-bottom: 2rem;">
+
 ## Teaching
 
 #### Instructor
 
-- **ADM 2352 — Finance Theory**, University of Ottawa
+* **ADM 2352 — Finance Theory**, University of Ottawa
 
 #### Teaching Assistant
 
-- **ADM 2352 — Finance Theory**, University of Ottawa, multiple terms
-- **ADM 2350 — Introduction to Business Finance**, University of Ottawa, multiple terms
+* **ADM 2352 — Finance Theory**, University of Ottawa, multiple terms
+* **ADM 2350 — Introduction to Business Finance**, University of Ottawa, multiple terms
+
