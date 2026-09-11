@@ -37,15 +37,15 @@ My research interests lie at the intersection of corporate finance, corporate go
 
 My current research is organized around three broad themes:
 
-#### Executive Communication
+#### Executive Communication and Corporate Finance
 
 I examine how information conveyed through executive communication relates to firms’ financial policies and capital-market outcomes.
 
-#### Executive Team Dynamics
+#### Executive Team Dynamics and Corporate Governance
 
-I study how dynamics within top management teams influence corporate decision-making, capital allocation, and firm value.
+I study how dynamics within top management teams relate to corporate governance, financial decision-making, and firm value.
 
-#### Boilerplate Disclosure
+#### Boilerplate Disclosure and Firm Risk
 
 I investigate the financial implications of standardized language in corporate disclosures, including its relation to firms’ information environments and risk.
 
