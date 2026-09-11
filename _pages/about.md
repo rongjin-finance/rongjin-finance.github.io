@@ -35,25 +35,25 @@ My research interests lie at the intersection of corporate finance, corporate go
 
 My current research is organized around three broad themes:
 
-### Executive Communication
+#### Executive Communication
 
 I study the information contained in executives’ language and communication in corporate settings.
 
-### Executive Team Dynamics
+#### Executive Team Dynamics
 
 I examine the roles, relationships, and dynamics within top management teams and their relevance to corporate decision-making.
 
-### Boilerplate Disclosure
+#### Boilerplate Disclosure
 
 I study the use of standardized language in corporate disclosures and its implications for firms and their stakeholders.
 
 ## Teaching
 
-### Instructor
+#### Instructor
 
 - **ADM 2352 — Finance Theory**, University of Ottawa
 
-### Teaching Assistant
+#### Teaching Assistant
 
 - **ADM 2352 — Finance Theory**, University of Ottawa, multiple terms
 - **ADM 2350 — Introduction to Business Finance**, University of Ottawa, multiple terms
