@@ -39,15 +39,15 @@ My current research is organized around three broad themes:
 
 #### Executive Communication
 
-I study the information contained in executives’ language and communication in corporate settings.
+I examine how information conveyed through executive communication relates to firms’ financial policies and capital-market outcomes.
 
 #### Executive Team Dynamics
 
-I examine the roles, relationships, and dynamics within top management teams and their relevance to corporate decision-making.
+I study how dynamics within top management teams influence corporate decision-making, capital allocation, and firm value.
 
 #### Boilerplate Disclosure
 
-I study the use of standardized language in corporate disclosures and its implications for firms and their stakeholders.
+I investigate the financial implications of standardized language in corporate disclosures, including its relation to firms’ information environments and risk.
 
 <hr style="margin-top: 2.5rem; margin-bottom: 2rem;">
 
