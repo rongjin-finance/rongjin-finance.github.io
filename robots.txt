@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rongjin-finance.github.io/sitemap.xml
+Sitemap: https://rongjin.me/sitemap.xml
