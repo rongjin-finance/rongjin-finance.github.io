@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Rong Jin
 permalink: /
 subtitle: PhD Candidate in Finance at the University of Ottawa
 
